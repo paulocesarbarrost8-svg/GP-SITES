@@ -62,7 +62,7 @@ Minha paixão por [mencione algo que você gosta, ex: criar interfaces intuitiva
 ## 🔗 Como Acessar/Visualizar
 
 Você pode visitar o projeto online e explorar meus serviços e trabalhos através do seguinte link:
-[https://paulocesarbarrost8-svg.github.io/GP-SITES/](https://paulocesarbarrost8-svg.github.io/GP-SITES/)
+https://gpsites.vercel.app/
 
 ## 📦 Como Executar Localmente
 
