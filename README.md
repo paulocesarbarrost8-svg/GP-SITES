@@ -91,8 +91,8 @@ Para baixar e visualizar este projeto em sua máquina, siga os passos abaixo:
 
 *   **GitHub:** [https://github.com/paulocesarbarrost8-svg](https://github.com/paulocesarbarrost8-svg)
 
-*   **LinkedIn (Opcional):** https://www.linkedin.com/in/paulocesarbt
+*   **LinkedIn:** https://www.linkedin.com/in/paulocesarbt
 
-*   **Email (Opcional):** paulocesarbarrost8gmail.com
+*   **Email:** paulocesarbarrost8gmail.com
 
 Sinta-se à vontade para entrar em contato para discutir oportunidades, colaborações ou qualquer dúvida!
